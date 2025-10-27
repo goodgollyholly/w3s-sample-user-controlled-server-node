@@ -303,10 +303,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@circle-fin/user-controlled-wallets@^4.1.1":
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/@circle-fin/user-controlled-wallets/-/user-controlled-wallets-4.1.1.tgz#f6c79735a7e8fe091dd3d7b9c68f9e6fd6c4e038"
-  integrity sha512-Xe2gDuH2fsMCL4Y+cjugrb8egymnfI2gfKZPb/pJpmSi4YF1x3a62VCA1iOqPFU6kl/5oHmDtrjohHKUtrxv0w==
+"@circle-fin/user-controlled-wallets@^4.6.0":
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/@circle-fin/user-controlled-wallets/-/user-controlled-wallets-4.6.0.tgz#5ea2e231d603482ce7a4d4f3db14bc94cc0eb912"
+  integrity sha512-vG4w/vEbfRvP2/26LLPM3eNMUAiOGNazS2z6wMCRZF4yma3CSXLhP1tTlz5+oDfAodFdyxtnHhsleeNJmV8vNg==
   dependencies:
     axios "^1.6.2"
 
